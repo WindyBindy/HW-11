@@ -1,0 +1,15 @@
+div{
+    height: 350px;
+    width: 220px;
+
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+
+    margin-bottom:30px ;
+
+    border: 2px solid red;
+
+    background-color: green;
+}
